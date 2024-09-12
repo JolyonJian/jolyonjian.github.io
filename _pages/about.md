@@ -35,14 +35,14 @@ B.Eng. in Internet of Things Engineering.
 Bachelor’s degree program.
 
 # 🔥 News
-- *2024.08*: We accepted media interviews on behalf of the 8 participating teams in the Feiteng track at the 19th China Graduate Electronics Design Contest. [\[Video\]](www.jolyonjian.fun/files/interview.mp4)
+- *2024.08*: We accepted media interviews on behalf of the 8 participating teams in the Feiteng track at the 19th China Graduate Electronics Design Contest. [\[Video\]](http://www.jolyonjian.fun/files/interview.mp4)
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPDS 2023</div><img src='images/tscvee.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TSC-VEE: A TrustZone-Based Smart Contract Virtual Execution Environment](www.jolyonjian.fun/files/tscvee.pdf)
+[TSC-VEE: A TrustZone-Based Smart Contract Virtual Execution Environment](http://www.jolyonjian.fun/files/tscvee.pdf)
 
 **Zhaolong Jian**, Ye Lu*, Youyang Qiao, Yaozheng Fang, Xueshuo Xie, Dayi Yang, Zhiyuan Zhou, and Tao Li
 
@@ -55,7 +55,7 @@ Bachelor’s degree program.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPE 2023</div><img src='images/drs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DRS: A deep reinforcement learning enhanced Kubernetes scheduler for microservice-based system](www.jolyonjian.fun/files/drs.pdf)
+[DRS: A deep reinforcement learning enhanced Kubernetes scheduler for microservice-based system](http://www.jolyonjian.fun/files/drs.pdf)
 
 **Zhaolong Jian**, Xueshuo Xie, Yaozheng Fang, Yibing Jiang, Ye Lu, Ankan Dash, Tao Li*, and Guiling Wang
 
@@ -67,18 +67,18 @@ Bachelor’s degree program.
 
 **Total List: 12**
 
-- [Memory-Efficient and Secure DNN Inference on TrustZone-enabled Consumer IoT Devices](www.jolyonjian.fun/files/tinylib.pdf), Xueshuo Xie, Haoxu Wang, **Zhaolong Jian**, Tao Li\*, Wei Wang, Zhiwei Xu, and Guiling Wang, **INFOCOM 2024**
-- [DRS: A deep reinforcement learning enhanced Kubernetes scheduler for microservice-based system](www.jolyonjian.fun/files/drs.pdf), **Zhaolong Jian**, Xueshuo Xie, Yaozheng Fang, Yibing Jiang, Ye Lu, Ankan Dash, Tao Li\*, and Guiling Wang, **SPE 2023**
-- [TSC-VEE: A TrustZone-Based Smart Contract Virtual Execution Environment](www.jolyonjian.fun/files/tscvee.pdf), **Zhaolong Jian**, Ye Lu\*, Youyang Qiao, Yaozheng Fang, Xueshuo Xie, Dayi Yang, Zhiyuan Zhou, and Tao Li, **TPDS 2023**
-- [Block-gram: mining knowledgeable features for efficiently smart contract vulnerability detection](www.jolyonjian.fun/files/dcn.pdf), Xueshuo Xie, Haolong Wang, **Zhaolong Jian**, Yaozheng Fang, Zichun Wang, and Tao Li\*, **DCN 2023**
-- [Block-gram: Mining Knowledgeable Features for Smart Contract Vulnerability Detection](www.jolyonjian.fun/files/smartcom.pdf), Tao Li, Haolong Wang, Yaozheng Fang, **Zhaolong Jian**, Zichun Wang, and Xueshuo Xie\*, **SmartCom 2022**
-- [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](www.jolyonjian.fun/files/smartvm.pdf), Tao Li, Yaozheng Fang, Ye Lu\*, Jinni Yang, **Zhaolong Jian**, Zhiguo Wan, Yusen Li, **TPDS 2022**
-- [Sysnif: A log-based workflow construction method and performance measurement in intelligent IoT system](www.jolyonjian.fun/files/sysnif.pdf), **Zhaolong Jian**, Zongming Jin, XueShuo Xie, Ye Lu\*, Guangying Li\*, Xinwei Chen, Thar Baker, **Measurement 2021**
-- [ATOM: Architectural Support and Optimization Mechanism for Smart Contract Fast Update and Execution in Blockchain-Based IoT](www.jolyonjian.fun/files/atom.pdf), Tao Li; Yaozheng Fang; **Zhaolong Jian**, Xueshuo Xie, Ye Lu\* and Guiling Wang, **IOTJ 2021**
-- [Trusted-DNN: A TrustZone-based Adaptive Isolation Strategy for Deep Neural Networks](www.jolyonjian.fun/files/trusteddnn.pdf), Zhuang Liu, Ye Lu\*, Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Tao Li, **ACM TURC 2021**
-- [WIP: Sysnif: Constructing Workflow from Interleaved Logs in Intelligent IoT System](www.jolyonjian.fun/files/wip.pdf), Zongming Jin, Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Ye Lu\*, Guangying Li\*, **WoWMoM 2021**
-- [Fast Policy Interpretation and Dynamic Conflict Resolution for Blockchain-Based IoT System](www.jolyonjian.fun/files/fpicr.pdf), Yaozheng Fang, **Zhaolong Jian**, Zongming Jin, Xueshuo Xie\*, Ye Lu, Tao Li, **WCMC 2021**
-- [Blockchain-driven anomaly detection framework on edge intelligence](www.jolyonjian.fun/files/ton.pdf), Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Ye Lu\*, Tao Li\*, Guiling Wang, **CCF ToN 2020**
+- [Memory-Efficient and Secure DNN Inference on TrustZone-enabled Consumer IoT Devices](http://www.jolyonjian.fun/files/tinylib.pdf), Xueshuo Xie, Haoxu Wang, **Zhaolong Jian**, Tao Li\*, Wei Wang, Zhiwei Xu, and Guiling Wang, **INFOCOM 2024** <img src="https://img.shields.io/badge/CCF-A-red"></img>
+- [DRS: A deep reinforcement learning enhanced Kubernetes scheduler for microservice-based system](http://www.jolyonjian.fun/files/drs.pdf), **Zhaolong Jian**, Xueshuo Xie, Yaozheng Fang, Yibing Jiang, Ye Lu, Ankan Dash, Tao Li\*, and Guiling Wang, **SPE 2023** <img src="https://img.shields.io/badge/CCF-B-blue"></img>
+- [TSC-VEE: A TrustZone-Based Smart Contract Virtual Execution Environment](http://www.jolyonjian.fun/files/tscvee.pdf), **Zhaolong Jian**, Ye Lu\*, Youyang Qiao, Yaozheng Fang, Xueshuo Xie, Dayi Yang, Zhiyuan Zhou, and Tao Li, **TPDS 2023** <img src="https://img.shields.io/badge/CCF-A-red"></img>
+- [Block-gram: mining knowledgeable features for efficiently smart contract vulnerability detection](http://www.jolyonjian.fun/files/dcn.pdf), Xueshuo Xie, Haolong Wang, **Zhaolong Jian**, Yaozheng Fang, Zichun Wang, and Tao Li\*, **DCN 2023** <img src="https://img.shields.io/badge/SCI-II-blue"></img>
+- [Block-gram: Mining Knowledgeable Features for Smart Contract Vulnerability Detection](http://www.jolyonjian.fun/files/smartcom.pdf), Tao Li, Haolong Wang, Yaozheng Fang, **Zhaolong Jian**, Zichun Wang, and Xueshuo Xie\*, **SmartCom 2022** <img src="https://img.shields.io/badge/EI-orange"></img>
+- [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](http://www.jolyonjian.fun/files/smartvm.pdf), Tao Li, Yaozheng Fang, Ye Lu\*, Jinni Yang, **Zhaolong Jian**, Zhiguo Wan, Yusen Li, **TPDS 2022** <img src="https://img.shields.io/badge/CCF-A-red"></img>
+- [Sysnif: A log-based workflow construction method and performance measurement in intelligent IoT system](http://www.jolyonjian.fun/files/sysnif.pdf), **Zhaolong Jian**, Zongming Jin, XueShuo Xie, Ye Lu\*, Guangying Li\*, Xinwei Chen, Thar Baker, **Measurement 2021**  <img src="https://img.shields.io/badge/SCI-II-blue"></img>
+- [ATOM: Architectural Support and Optimization Mechanism for Smart Contract Fast Update and Execution in Blockchain-Based IoT](http://www.jolyonjian.fun/files/atom.pdf), Tao Li; Yaozheng Fang; **Zhaolong Jian**, Xueshuo Xie, Ye Lu\* and Guiling Wang, **IOTJ 2021**<img src="https://img.shields.io/badge/SCI-I-red"></img>
+- [Trusted-DNN: A TrustZone-based Adaptive Isolation Strategy for Deep Neural Networks](http://www.jolyonjian.fun/files/trusteddnn.pdf), Zhuang Liu, Ye Lu\*, Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Tao Li, **ACM TURC 2021** <img src="https://img.shields.io/badge/Best%20Paper%20Award-red"></img>
+- [WIP: Sysnif: Constructing Workflow from Interleaved Logs in Intelligent IoT System](http://www.jolyonjian.fun/files/wip.pdf), Zongming Jin, Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Ye Lu\*, Guangying Li\*, **WoWMoM 2021** <img src="https://img.shields.io/badge/CCF-C-orange"></img>
+- [Fast Policy Interpretation and Dynamic Conflict Resolution for Blockchain-Based IoT System](http://www.jolyonjian.fun/files/fpicr.pdf), Yaozheng Fang, **Zhaolong Jian**, Zongming Jin, Xueshuo Xie\*, Ye Lu, Tao Li, **WCMC 2021** <img src="https://img.shields.io/badge/CCF-C-orange"></img>
+- [Blockchain-driven anomaly detection framework on edge intelligence](http://www.jolyonjian.fun/files/ton.pdf), Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Ye Lu\*, Tao Li\*, Guiling Wang, **CCF ToN 2020**
 
 
 # 🎖 Honors and Awards
