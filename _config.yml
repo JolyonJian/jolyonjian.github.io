@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhaolong Jian"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Ph.D. Candidate in Computer Science, Specializing in Computer Architecture. Focusing on intelligent computing system, system security, and trusted execution environment. "
 repository               : "JolyonJian/jolyonjian.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "jolyonjian"
+  github           : "jolyonjian"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/282/4086.html"
-  orcid            : # e.g., "https://orcid.org/0000-0003-1543-3207"
+  dblp             : "https://dblp.org/pid/282/4086.html"
+  orcid            : "https://orcid.org/0000-0003-1543-3207"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
