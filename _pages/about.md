@@ -67,7 +67,7 @@ Bachelor’s degree program.
 
 **Total List: 12**
 
-- [Memory-Efficient and Secure DNN Inference on TrustZone-enabled Consumer IoT Devices](http://www.jolyonjian.fun/files/tinylib.pdf), Xueshuo Xie, Haoxu Wang, **Zhaolong Jian**, Tao Li\*, Wei Wang, Zhiwei Xu, and Guiling Wang, **INFOCOM 2024** <img src="https://img.shields.io/badge/CCF-A-red"></img>
+- [Memory-Efficient and Secure DNN Inference on TrustZone-enabled Consumer IoT Devices](http://www.jolyonjian.fun/files/tinylib.pdf), Xueshuo Xie, Haoxu Wang, **Zhaolong Jian**, Tao Li\*, Wei Wang, Zhiwei Xu, and Guiling Wang, **INFOCOM 2024** ![Static Badge](https://img.shields.io/badge/:CCF-A-red)
 - [DRS: A deep reinforcement learning enhanced Kubernetes scheduler for microservice-based system](http://www.jolyonjian.fun/files/drs.pdf), **Zhaolong Jian**, Xueshuo Xie, Yaozheng Fang, Yibing Jiang, Ye Lu, Ankan Dash, Tao Li\*, and Guiling Wang, **SPE 2023** <img src="https://img.shields.io/badge/CCF-B-blue"></img>
 - [TSC-VEE: A TrustZone-Based Smart Contract Virtual Execution Environment](http://www.jolyonjian.fun/files/tscvee.pdf), **Zhaolong Jian**, Ye Lu\*, Youyang Qiao, Yaozheng Fang, Xueshuo Xie, Dayi Yang, Zhiyuan Zhou, and Tao Li, **TPDS 2023** <img src="https://img.shields.io/badge/CCF-A-red"></img>
 - [Block-gram: mining knowledgeable features for efficiently smart contract vulnerability detection](http://www.jolyonjian.fun/files/dcn.pdf), Xueshuo Xie, Haolong Wang, **Zhaolong Jian**, Yaozheng Fang, Zichun Wang, and Tao Li\*, **DCN 2023** <img src="https://img.shields.io/badge/SCI-II-blue"></img>
