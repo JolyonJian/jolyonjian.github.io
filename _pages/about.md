@@ -21,7 +21,7 @@ Aloha threr! I am a 3rd year Ph.D. candidate at College of Computer Science of N
 
 I will soon become a visiting scholar at Nanyang Technological University (NTU) supervised by [Prof. Weichen Liu](https://personal.ntu.edu.sg/liu/) with the sponsorship of China Scholarship Council (CSC). 
 
-My research interest includes intelligent computing system, system security, and trusted execution environment. I have published more than 10 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=LCsCUrMAAAAJ'>google scholar citations <strong><span id='total_cit'>67+</span></strong></a> <a href='https://scholar.google.com/citations?user=LCsCUrMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes intelligent computing system, system security, and trusted execution environment. I have published 12 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=LCsCUrMAAAAJ'>google scholar citations <strong><span id='total_cit'>67+</span></strong></a> <a href='https://scholar.google.com/citations?user=LCsCUrMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 📖 Educations
 - *2022.09 - now*, College of Computer Science, Nankai University. 
@@ -65,7 +65,7 @@ Bachelor’s degree program.
 </div>
 </div>
 
-**Total List: 12**
+**Publications List: 12 papers totally**
 
 - [Memory-Efficient and Secure DNN Inference on TrustZone-enabled Consumer IoT Devices](http://www.jolyonjian.fun/files/tinylib.pdf), Xueshuo Xie, Haoxu Wang, **Zhaolong Jian**, Tao Li\*, Wei Wang, Zhiwei Xu, and Guiling Wang, **INFOCOM 2024** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
 - [DRS: A deep reinforcement learning enhanced Kubernetes scheduler for microservice-based system](http://www.jolyonjian.fun/files/drs.pdf), **Zhaolong Jian**, Xueshuo Xie, Yaozheng Fang, Yibing Jiang, Ye Lu, Ankan Dash, Tao Li\*, and Guiling Wang, **SPE 2023** ![Static Badge](https://img.shields.io/badge/CCF_B-blue)
