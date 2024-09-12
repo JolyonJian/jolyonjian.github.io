@@ -19,7 +19,7 @@ redirect_from:
 
 Aloha threr! I am a 3rd year Ph.D. candidate at College of Computer Science of Nankai University, advised by Prof. Tao Li. I am affliated with Nankai Intelligent Computing System (ICS) Lab and Haihe Lab of ITAI. 
 
-I will soon become a visiting scholar at Nanyang Technological University (NTU) supervised by Prof. Weichen Liu with the sponsorship of China Scholarship Council (CSC). 
+I will soon become a visiting scholar at Nanyang Technological University (NTU) supervised by [Prof. Weichen Liu](https://personal.ntu.edu.sg/liu/) with the sponsorship of China Scholarship Council (CSC). 
 
 My research interest includes intelligent computing system, system security, and trusted execution environment. I have published more than 10 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=LCsCUrMAAAAJ'>google scholar citations <strong><span id='total_cit'>67+</span></strong></a> <a href='https://scholar.google.com/citations?user=LCsCUrMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -46,7 +46,7 @@ Bachelor’s degree program.
 
 **Zhaolong Jian**, Ye Lu*, Youyang Qiao, Yaozheng Fang, Xueshuo Xie, Dayi Yang, Zhiyuan Zhou, and Tao Li
 
-[**Project**](https://github.com/nkicsl/TSC-VEE) <strong><span class='show_paper_citations' data='LCsCUrMAAAAJ:WF5omc3nYNoC'></span></strong>
+[**Project**](https://github.com/nkicsl/TSC-VEE) <strong><span class='show_paper_citations' data='LCsCUrMAAAAJ:WF5omc3nYNoC'></span></strong> | Star: ![Static Badge](https://img.shields.io/badge/Start-7-blue)
 - TSC-VEE is the first virtual execution environment for Solidity smart contract on ARM TrustZone.
 - TSC-VEE contributed the first evm implemented in pure C language in the community.
 </div>
@@ -59,7 +59,7 @@ Bachelor’s degree program.
 
 **Zhaolong Jian**, Xueshuo Xie, Yaozheng Fang, Yibing Jiang, Ye Lu, Ankan Dash, Tao Li*, and Guiling Wang
 
-[**Project**](https://github.com/JolyonJian/DRS) <strong><span class='show_paper_citations' data='LCsCUrMAAAAJ:YsMSGLbcyi4C'></span></strong>
+[**Project**](https://github.com/JolyonJian/DRS) <strong><span class='show_paper_citations' data='LCsCUrMAAAAJ:YsMSGLbcyi4C'></span></strong> | Star: ![Static Badge](https://img.shields.io/badge/Start-12-blue)
 - DRS uses the DQN algorithm to enhance the native scheduler of Kubernetes.
 - DRS provides a good implementation reference for Kubernetes scheduling optimization.
 </div>
