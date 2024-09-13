@@ -35,7 +35,7 @@ B.Eng. in Internet of Things Engineering.
 Bachelor’s degree program.
 
 # 🔥 News
-- *2024.08*: We accepted media interviews on behalf of the 8 participating teams in the Feiteng track at the 19th China Graduate Electronics Design Contest. [\[Video\]](http://www.jolyonjian.fun/files/interview.mp4)
+- *2024.08*: We accepted media interviews on behalf of the 8 participating teams in the Phytium track at the 19th China Graduate Electronics Design Contest. [\[Video\]](http://www.jolyonjian.fun/files/interview.mp4)
 
 # 📝 Publications 
 
