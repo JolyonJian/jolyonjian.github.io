@@ -102,12 +102,12 @@ Bachelor’s degree program.
 - *2024.08* Third Prize in the 19th China Graduate Electronics Design Contest.
 - *2024.07* Scholarship from China Scholarship Council (CSC).
 - *2023.11* CIE Outstanding Paper Award (for TSC-VEE). 
-- *2023.10* Nankai University Gongneng Scoarship (the 1st class). 
+- *2023.10* Nankai University Gongneng Schoarship (the 1st class). 
 - *2023.09* Outstanding post-graduate of Nankai University (6/122).
-- *2022.10* Nankai University Gongneng Scoarship. 
+- *2022.10* Nankai University Gongneng Schoarship. 
 - *2021.10* Outstanding post-graduate of Nankai University (6/122).
-- *2021.10* Nankai University Gongneng Scoarship (the 2nd class).
-- *2021.10* Nankai University Gongneng Scoarship.
+- *2021.10* Nankai University Gongneng Schoarship (the 2nd class).
+- *2020.10* Nankai University Gongneng Schoarship.
 
 # 💬 Invited Talks
 - *2022.11*, The work TSC-VEE is reported at the annual academic conference of Tianjin Key Laboratory of Network and Data Security Technology. 
