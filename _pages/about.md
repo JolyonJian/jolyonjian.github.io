@@ -21,7 +21,7 @@ Aloha threr! I am a 3rd year Ph.D. candidate at College of Computer Science of N
 
 I will be a visiting scholar at Nanyang Technological University (NTU) supervised by [Prof. Weichen Liu](https://personal.ntu.edu.sg/liu/) with the sponsorship of China Scholarship Council (CSC) for 12 months, from 16th March 2025 to 15 March 2026. 
 
-My research interest includes intelligent computing system, system security, and trusted execution environment. I have published 12 papers at the top international journals and conferences with total <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes intelligent computing system, system security, and trusted execution environment. I have published 12 papers at the top international journals and conferences with total <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
 
 # 📖 Educations
 - *2022.09 - now*, College of Computer Science, Nankai University. 
