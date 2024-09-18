@@ -23,6 +23,8 @@ I will be a visiting scholar at Nanyang Technological University (NTU) supervise
 
 My research interest includes intelligent computing system, system security, and trusted execution environment. I have published 12 papers at the top international journals and conferences with total <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
 
+Here is my resume: [\[CV-en\]](http://www.jolyonjian.fun/files/cv-en.pdf) [\[CV-cn\]](http://www.jolyonjian.fun/files/cv-cn.pdf)
+
 # 📖 Educations
 - *2022.09 - now*, College of Computer Science, Nankai University. 
 Successive master-doctor program (Ph.D. student phase) in Computer Science.
