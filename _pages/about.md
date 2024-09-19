@@ -113,5 +113,5 @@ Bachelor’s degree program.
 - *2022.11*, The work TSC-VEE is reported at the annual academic conference of Tianjin Key Laboratory of Network and Data Security Technology. 
 
 # 💻 Internships
-- *2023.03 - now*, Haihe Lab of ITAI, Digital Health Center. Distributed medical privacy computing system.
+- *2023.03 - now*, Digital Health Center, Haihe Lab of ITAI. Distributed medical privacy computing system.
 - *2022.07 - 2022.09*, Blockchain Platform Division, Ant Group. Smart contract programming language design for asset security.
