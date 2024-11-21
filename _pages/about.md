@@ -96,7 +96,7 @@ Bachelor’s degree program.
 
 - [Blockchain-driven anomaly detection framework on edge intelligence](http://www.jolyonjian.fun/files/ton.pdf), Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Ye Lu\*, Tao Li\*, Guiling Wang, **CCF ToN 2020**
 
-# 🥏 Open Source Repositories
+# 🥏 Interesting Repositories
 - [CCF4DBLP: Retrieve papers from DBLP based on CCF ranting](https://github.com/JolyonJian/CCF4DBLP) ![Static Badge](https://img.shields.io/github/stars/JolyonJian/CCF4DBLP?style=social)
 - [BC4SM: Blockchain-based secure messaging mechanism](https://github.com/JolyonJian/BC4SM) ![Static Badge](https://img.shields.io/github/stars/JolyonJian/BC4SM?style=social)
 
