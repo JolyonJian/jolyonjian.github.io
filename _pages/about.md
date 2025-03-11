@@ -41,6 +41,19 @@ Bachelor’s degree program.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TC 2025</div><img src='images/smartzone.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SmartZone: Runtime Support for Secure and Efficient On-device Inference on ARM TrustZone](http://www.jolyonjian.fun/files/tscvee.pdf)
+
+**Zhaolong Jian**, Xu Liu, Qiankun Dong, Longkai Cheng, Xueshuo Xie*, and Tao Li*
+
+[**Project**](https://github.com/nkicsl/SmartZone) ![Static Badge](https://img.shields.io/github/stars/nkicsl/SmartZone?style=social) <strong><span class='show_paper_citations' data='LCsCUrMAAAAJ:WF5omc3nYNoC'></span></strong>
+- SmartZone provides entire protection for on-device DNN and LLM inference while keeping efficiency.
+- SmartZone is a good paradigm for TrustZone-based high performance confidential computing.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPDS 2023</div><img src='images/tscvee.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -71,6 +84,8 @@ Bachelor’s degree program.
 
 ### 2025
 
+- [SmartZone: Runtime Support for Secure and Efficient On-device Inference on ARM TrustZone](http://www.jolyonjian.fun/files/tinylib.pdf), **Zhaolong Jian**, Xu Liu, Qiankun Dong, Longkai Cheng, Xueshuo Xie\*, and Tao Li\*, **TC major revision** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
+
 - [Hybrid-Granularity Parallelism Support for Fast Transaction Processing in Blockchain-based Federated Learning](http://www.jolyonjian.fun/files/tinylib.pdf), Mulin Li, **Zhaolong Jian**, Kaixuan Yang, Xueshuo Xie\*, Wajdy, Tao Li\*, **IPDPS 2025** ![Static Badge](https://img.shields.io/badge/CCF_B-blue)
 
 ### 2024
@@ -79,9 +94,9 @@ Bachelor’s degree program.
 
 ### 2023
 
-- [DRS: A deep reinforcement learning enhanced Kubernetes scheduler for microservice-based system](http://www.jolyonjian.fun/files/drs.pdf), **Zhaolong Jian**, Xueshuo Xie, Yaozheng Fang, Yibing Jiang, Ye Lu, Ankan Dash, Tao Li\*, and Guiling Wang, **SPE 2023** ![Static Badge](https://img.shields.io/badge/CCF_B-blue)
+- [DRS: A Deep Reinforcement Learning Enhanced Kubernetes Scheduler for Microservice-based System](http://www.jolyonjian.fun/files/drs.pdf), **Zhaolong Jian**, Xueshuo Xie, Yaozheng Fang, Yibing Jiang, Ye Lu, Ankan Dash, Tao Li\*, and Guiling Wang, **SPE 2023** ![Static Badge](https://img.shields.io/badge/CCF_B-blue)
 - [TSC-VEE: A TrustZone-Based Smart Contract Virtual Execution Environment](http://www.jolyonjian.fun/files/tscvee.pdf), **Zhaolong Jian**, Ye Lu\*, Youyang Qiao, Yaozheng Fang, Xueshuo Xie, Dayi Yang, Zhiyuan Zhou, and Tao Li, **TPDS 2023** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
-- [Block-gram: mining knowledgeable features for efficiently smart contract vulnerability detection](http://www.jolyonjian.fun/files/dcn.pdf), Xueshuo Xie, Haolong Wang, **Zhaolong Jian**, Yaozheng Fang, Zichun Wang, and Tao Li\*, **DCN 2023** ![Static Badge](https://img.shields.io/badge/SCI_II-blue)
+- [Block-gram: Mining Knowledgeable Features for Efficiently Smart Contract Vulnerability Detection](http://www.jolyonjian.fun/files/dcn.pdf), Xueshuo Xie, Haolong Wang, **Zhaolong Jian**, Yaozheng Fang, Zichun Wang, and Tao Li\*, **DCN 2023** ![Static Badge](https://img.shields.io/badge/SCI_II-blue)
 - [Block-gram: Mining Knowledgeable Features for Smart Contract Vulnerability Detection](http://www.jolyonjian.fun/files/smartcom.pdf), Tao Li, Haolong Wang, Yaozheng Fang, **Zhaolong Jian**, Zichun Wang, and Xueshuo Xie\*, **SmartCom 2022** ![Static Badge](https://img.shields.io/badge/EI-green)
 
 ### 2022
@@ -98,13 +113,17 @@ Bachelor’s degree program.
 
 ### 2020
 
-- [Blockchain-driven anomaly detection framework on edge intelligence](http://www.jolyonjian.fun/files/ton.pdf), Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Ye Lu\*, Tao Li\*, Guiling Wang, **CCF ToN 2020**
+- [Blockchain-driven Anomaly Detection Framework on Edge Intelligence](http://www.jolyonjian.fun/files/ton.pdf), Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Ye Lu\*, Tao Li\*, Guiling Wang, **CCF ToN 2020**
 
 # 🥏 Interesting Repositories
 - [CCF4DBLP: Retrieve papers from DBLP based on CCF ranting](https://github.com/JolyonJian/CCF4DBLP) ![Static Badge](https://img.shields.io/github/stars/JolyonJian/CCF4DBLP?style=social)
 - [BC4SM: Blockchain-based secure messaging mechanism](https://github.com/JolyonJian/BC4SM) ![Static Badge](https://img.shields.io/github/stars/JolyonJian/BC4SM?style=social)
+- [TxAnalysis: Analysis of popular Ethereum smart contracts](https://github.com/JolyonJian/tx-analysis) ![Static Badge](https://img.shields.io/github/stars/JolyonJian/tx-analysis?style=social)
 
 # 🎖 Honors and Awards
+- *2024.12* Second Prize in the 3th CCF Blockchain Competition.
+- *2023.10* Nankai University Academic Competition Special Scholarship.
+- *2023.10* Nankai University Gongneng Schoarship (the 2st class).
 - *2024.08* Second Prize in the 8th China College IC Competition.
 - *2024.08* Third Prize in the 19th China Graduate Electronics Design Contest.
 - *2024.07* Scholarship from China Scholarship Council (CSC).
