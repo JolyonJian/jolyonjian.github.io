@@ -123,7 +123,7 @@ Bachelor’s degree program.
 # 🎖 Honors and Awards
 - *2024.12* Second Prize in the 3th CCF Blockchain Competition.
 - *2023.10* Nankai University Academic Competition Special Scholarship.
-- *2023.10* Nankai University Gongneng Schoarship (the 2st class).
+- *2023.10* Nankai University Gongneng Schoarship (the 2nd class).
 - *2024.08* Second Prize in the 8th China College IC Competition.
 - *2024.08* Third Prize in the 19th China Graduate Electronics Design Contest.
 - *2024.07* Scholarship from China Scholarship Council (CSC).
