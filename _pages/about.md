@@ -21,7 +21,7 @@ Aloha threr! I am a 3rd year Ph.D. candidate at College of Computer Science of N
 
 I will be a visiting scholar at Nanyang Technological University (NTU) supervised by [Prof. Weichen Liu](https://personal.ntu.edu.sg/liu/) with the sponsorship of China Scholarship Council (CSC) for 12 months, from 16th March 2025 to 15 March 2026. 
 
-My research interest includes intelligent computing system, system security, and trusted execution environment. I have published 13 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=LCsCUrMAAAAJ'>google scholar citations <strong><span id='total_cit'>90+</span></strong></a> <a href='https://scholar.google.com/citations?user=LCsCUrMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes intelligent computing system, system security, and trusted execution environment. I have published 14 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=LCsCUrMAAAAJ'>google scholar citations <strong><span id='total_cit'>90+</span></strong></a> <a href='https://scholar.google.com/citations?user=LCsCUrMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 Here is my resume: [\[CV-en\]](http://www.jolyonjian.fun/files/cv-en.pdf) [\[CV-cn\]](http://www.jolyonjian.fun/files/cv-cn.pdf)
 
@@ -80,7 +80,7 @@ Bachelor’s degree program.
 </div>
 </div>
 
-**Publications List: 13 papers totally**
+**Publications List: 14 papers totally**
 
 ### 2025
 
