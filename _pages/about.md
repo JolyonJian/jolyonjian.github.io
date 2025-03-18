@@ -45,7 +45,7 @@ Bachelor’s degree program.
 
 **Zhaolong Jian**, Xu Liu, Qiankun Dong, Longkai Cheng, Xueshuo Xie*, and Tao Li*
 
-[**Project**](https://github.com/nkicsl/SmartZone) ![Static Badge](https://img.shields.io/github/stars/nkicsl/SmartZone?style=social) <strong><span class='show_paper_citations' data='LCsCUrMAAAAJ:WF5omc3nYNoC'></span></strong>
+[**Project**](https://github.com/nkicsl/SmartZone) ![Static Badge](https://img.shields.io/github/stars/nkicsl/SmartZone?style=social) <strong><span class='show_paper_citations' data='LCsCUrMAAAAJ:LkGwnXOMwfcC'></span></strong>
 - SmartZone provides entire protection for on-device DNN and LLM inference while keeping efficiency.
 - SmartZone is a good paradigm for TrustZone-based high performance confidential computing.
 </div>
