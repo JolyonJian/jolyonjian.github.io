@@ -39,6 +39,12 @@ Research fields: Trusted execution environment, Smart contract virtual machine.
 B.Eng. in Internet of Things Engineering.
 Bachelor’s degree program.
 
+
+# 🔥 News
+- *2025.03*: Our paper titled "DRS: A Deep Reinforcement Learning Enhanced Kubernetes Scheduler for Microservice-based System" has been listed as the [most cited paper of SPE](https://onlinelibrary.wiley.com/journal/1097024x?tabActivePane=undefined) in the past two years!
+- *2024.08*: We accepted media interviews on behalf of the 8 participating teams in the Phytium track at the 19th China Graduate Electronics Design Contest. [\[Video\]](http://www.jolyonjian.fun/files/interview.mp4)
+ 
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TC 2025</div><img src='images/smartzone.png' alt="sym" width="100%"></div></div>
@@ -136,7 +142,6 @@ Bachelor’s degree program.
 - *2020.10* Nankai University Gongneng Schoarship.
 
 # 💬 Invited Talks
-- *2024.08*: We accepted media interviews on behalf of the 8 participating teams in the Phytium track at the 19th China Graduate Electronics Design Contest. [\[Video\]](http://www.jolyonjian.fun/files/interview.mp4)
 - *2022.11*, The work TSC-VEE is reported at the annual academic conference of Tianjin Key Laboratory of Network and Data Security Technology. 
 
 # 💻 Internships
