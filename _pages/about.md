@@ -90,7 +90,7 @@ Bachelor’s degree program.
 
 ### 2025
 
-- [SmartZone: Runtime Support for Secure and Efficient On-device Inference on ARM TrustZone](http://www.jolyonjian.fun/files/tinylib.pdf), **Zhaolong Jian**, Xu Liu, Qiankun Dong, Longkai Cheng, Xueshuo Xie\*, and Tao Li\*, **TC major revision** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
+- [SmartZone: Runtime Support for Secure and Efficient On-device Inference on ARM TrustZone](http://www.jolyonjian.fun/files/tinylib.pdf), **Zhaolong Jian**, Xu Liu, Qiankun Dong, Longkai Cheng, Xueshuo Xie\*, and Tao Li\*, **TC 2025** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
 
 - [Hybrid-Granularity Parallelism Support for Fast Transaction Processing in Blockchain-based Federated Learning](http://www.jolyonjian.fun/files/tinylib.pdf), Mulin Li, **Zhaolong Jian**, Kaixuan Yang, Xueshuo Xie\*, Wajdy, Tao Li\*, **IPDPS 2025** ![Static Badge](https://img.shields.io/badge/CCF_B-blue)
 
