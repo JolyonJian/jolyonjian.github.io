@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Aloha threr! I am a 3rd year Ph.D. candidate at College of Computer Science of Nankai University, advised by Prof. Tao Li and Ye Lu. I am affliated with [Nankai Intelligent Computing System Lab](https://ics.nankai.edu.cn/) and [Haihe Lab of ITAI](https://www.hl-it.cn/). 
+Aloha there! I am a 3rd year Ph.D. candidate at College of Computer Science of Nankai University, advised by Prof. Tao Li and Ye Lu. I am affliated with [Nankai Intelligent Computing System Lab](https://ics.nankai.edu.cn/) and [Haihe Lab of ITAI](https://www.hl-it.cn/). 
 
 I will be a visiting scholar at Nanyang Technological University (NTU) supervised by [Prof. Weichen Liu](https://personal.ntu.edu.sg/liu/) with the sponsorship of China Scholarship Council (CSC) for 12 months, from March 2025 to March 2026. 
 
