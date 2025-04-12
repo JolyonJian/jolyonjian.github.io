@@ -50,7 +50,7 @@ Bachelor’s degree program.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TC 2025</div><img src='images/smartzone.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SmartZone: Runtime Support for Secure and Efficient On-device Inference on ARM TrustZone](http://www.jolyonjian.fun/files/tscvee.pdf)
+[SmartZone: Runtime Support for Secure and Efficient On-device Inference on ARM TrustZone](https://www.computer.org/csdl/journal/tc/5555/01/10949698/25KD2srm7qo)
 
 **Zhaolong Jian**, Xu Liu, Qiankun Dong, Longkai Cheng, Xueshuo Xie*, and Tao Li*
 
@@ -63,7 +63,7 @@ Bachelor’s degree program.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPDS 2023</div><img src='images/tscvee.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TSC-VEE: A TrustZone-Based Smart Contract Virtual Execution Environment](http://www.jolyonjian.fun/files/tscvee.pdf)
+[TSC-VEE: A TrustZone-Based Smart Contract Virtual Execution Environment](https://ieeexplore.ieee.org/document/10094016)
 
 **Zhaolong Jian**, Ye Lu*, Youyang Qiao, Yaozheng Fang, Xueshuo Xie, Dayi Yang, Zhiyuan Zhou, and Tao Li
 
@@ -76,7 +76,7 @@ Bachelor’s degree program.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPE 2023</div><img src='images/drs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DRS: A deep reinforcement learning enhanced Kubernetes scheduler for microservice-based system](http://www.jolyonjian.fun/files/drs.pdf)
+[DRS: A deep reinforcement learning enhanced Kubernetes scheduler for microservice-based system](https://onlinelibrary.wiley.com/doi/10.1002/spe.3284)
 
 **Zhaolong Jian**, Xueshuo Xie, Yaozheng Fang, Yibing Jiang, Ye Lu, Ankan Dash, Tao Li*, and Guiling Wang
 
@@ -90,36 +90,36 @@ Bachelor’s degree program.
 
 ### 2025
 
-- [SmartZone: Runtime Support for Secure and Efficient On-device Inference on ARM TrustZone](http://www.jolyonjian.fun/files/tinylib.pdf), **Zhaolong Jian**, Xu Liu, Qiankun Dong, Longkai Cheng, Xueshuo Xie\*, and Tao Li\*, **TC 2025** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
+- [SmartZone: Runtime Support for Secure and Efficient On-device Inference on ARM TrustZone](https://www.computer.org/csdl/journal/tc/5555/01/10949698/25KD2srm7qo), **Zhaolong Jian**, Xu Liu, Qiankun Dong, Longkai Cheng, Xueshuo Xie\*, and Tao Li\*, **TC 2025** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
 
 - [Hybrid-Granularity Parallelism Support for Fast Transaction Processing in Blockchain-based Federated Learning](http://www.jolyonjian.fun/files/tinylib.pdf), Mulin Li, **Zhaolong Jian**, Kaixuan Yang, Xueshuo Xie\*, Wajdy, Tao Li\*, **IPDPS 2025** ![Static Badge](https://img.shields.io/badge/CCF_B-blue)
 
 ### 2024
 
-- [Memory-Efficient and Secure DNN Inference on TrustZone-enabled Consumer IoT Devices](http://www.jolyonjian.fun/files/tinylib.pdf), Xueshuo Xie, Haoxu Wang, **Zhaolong Jian**, Tao Li\*, Wei Wang, Zhiwei Xu, and Guiling Wang, **INFOCOM 2024** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
+- [Memory-Efficient and Secure DNN Inference on TrustZone-enabled Consumer IoT Devices](https://ieeexplore.ieee.org/document/10621088), Xueshuo Xie, Haoxu Wang, **Zhaolong Jian**, Tao Li\*, Wei Wang, Zhiwei Xu, and Guiling Wang, **INFOCOM 2024** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
 
 ### 2023
 
-- [DRS: A Deep Reinforcement Learning Enhanced Kubernetes Scheduler for Microservice-based System](http://www.jolyonjian.fun/files/drs.pdf), **Zhaolong Jian**, Xueshuo Xie, Yaozheng Fang, Yibing Jiang, Ye Lu, Ankan Dash, Tao Li\*, and Guiling Wang, **SPE 2023** ![Static Badge](https://img.shields.io/badge/CCF_B-blue)
-- [TSC-VEE: A TrustZone-Based Smart Contract Virtual Execution Environment](http://www.jolyonjian.fun/files/tscvee.pdf), **Zhaolong Jian**, Ye Lu\*, Youyang Qiao, Yaozheng Fang, Xueshuo Xie, Dayi Yang, Zhiyuan Zhou, and Tao Li, **TPDS 2023** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
-- [Block-gram: Mining Knowledgeable Features for Efficiently Smart Contract Vulnerability Detection](http://www.jolyonjian.fun/files/dcn.pdf), Xueshuo Xie, Haolong Wang, **Zhaolong Jian**, Yaozheng Fang, Zichun Wang, and Tao Li\*, **DCN 2023** ![Static Badge](https://img.shields.io/badge/SCI_II-blue)
-- [Block-gram: Mining Knowledgeable Features for Smart Contract Vulnerability Detection](http://www.jolyonjian.fun/files/smartcom.pdf), Tao Li, Haolong Wang, Yaozheng Fang, **Zhaolong Jian**, Zichun Wang, and Xueshuo Xie\*, **SmartCom 2022** ![Static Badge](https://img.shields.io/badge/EI-green)
+- [DRS: A Deep Reinforcement Learning Enhanced Kubernetes Scheduler for Microservice-based System](https://onlinelibrary.wiley.com/doi/10.1002/spe.3284), **Zhaolong Jian**, Xueshuo Xie, Yaozheng Fang, Yibing Jiang, Ye Lu, Ankan Dash, Tao Li\*, and Guiling Wang, **SPE 2023** ![Static Badge](https://img.shields.io/badge/CCF_B-blue)
+- [TSC-VEE: A TrustZone-Based Smart Contract Virtual Execution Environment](https://ieeexplore.ieee.org/document/10094016), **Zhaolong Jian**, Ye Lu\*, Youyang Qiao, Yaozheng Fang, Xueshuo Xie, Dayi Yang, Zhiyuan Zhou, and Tao Li, **TPDS 2023** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
+- [Block-gram: Mining Knowledgeable Features for Efficiently Smart Contract Vulnerability Detection](https://www.sciencedirect.com/science/article/pii/S2352864823001347), Xueshuo Xie, Haolong Wang, **Zhaolong Jian**, Yaozheng Fang, Zichun Wang, and Tao Li\*, **DCN 2023** ![Static Badge](https://img.shields.io/badge/SCI_II-blue)
+- [Block-gram: Mining Knowledgeable Features for Smart Contract Vulnerability Detection](https://dl.acm.org/doi/10.1007/978-3-031-28124-2_52), Tao Li, Haolong Wang, Yaozheng Fang, **Zhaolong Jian**, Zichun Wang, and Xueshuo Xie\*, **SmartCom 2022** ![Static Badge](https://img.shields.io/badge/EI-green)
 
 ### 2022
 
-- [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](http://www.jolyonjian.fun/files/smartvm.pdf), Tao Li, Yaozheng Fang, Ye Lu\*, Jinni Yang, **Zhaolong Jian**, Zhiguo Wan, Yusen Li, **TPDS 2022** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
+- [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](https://ieeexplore.ieee.org/document/9780577), Tao Li, Yaozheng Fang, Ye Lu\*, Jinni Yang, **Zhaolong Jian**, Zhiguo Wan, Yusen Li, **TPDS 2022** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
 
 ### 2021
 
-- [Sysnif: A log-based workflow construction method and performance measurement in intelligent IoT system](http://www.jolyonjian.fun/files/sysnif.pdf), **Zhaolong Jian**, Zongming Jin, XueShuo Xie, Ye Lu\*, Guangying Li\*, Xinwei Chen, Thar Baker, **Measurement 2021** ![Static Badge](https://img.shields.io/badge/SCI_II-blue)
-- [ATOM: Architectural Support and Optimization Mechanism for Smart Contract Fast Update and Execution in Blockchain-Based IoT](http://www.jolyonjian.fun/files/atom.pdf), Tao Li; Yaozheng Fang; **Zhaolong Jian**, Xueshuo Xie, Ye Lu\* and Guiling Wang, **IOTJ 2021** ![Static Badge](https://img.shields.io/badge/SCI_I-red)
-- [Trusted-DNN: A TrustZone-based Adaptive Isolation Strategy for Deep Neural Networks](http://www.jolyonjian.fun/files/trusteddnn.pdf), Zhuang Liu, Ye Lu\*, Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Tao Li, **ACM TURC 2021** ![Static Badge](https://img.shields.io/badge/Best_Paper_Award-red)
-- [WIP: Sysnif: Constructing Workflow from Interleaved Logs in Intelligent IoT System](http://www.jolyonjian.fun/files/wip.pdf), Zongming Jin, Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Ye Lu\*, Guangying Li\*, **WoWMoM 2021** ![Static Badge](https://img.shields.io/badge/CCF_C-green)
-- [Fast Policy Interpretation and Dynamic Conflict Resolution for Blockchain-Based IoT System](http://www.jolyonjian.fun/files/fpicr.pdf), Yaozheng Fang, **Zhaolong Jian**, Zongming Jin, Xueshuo Xie\*, Ye Lu, Tao Li, **WCMC 2021** ![Static Badge](https://img.shields.io/badge/CCF_C-green)
+- [Sysnif: A log-based workflow construction method and performance measurement in intelligent IoT system](https://www.sciencedirect.com/science/article/pii/S0263224121010897), **Zhaolong Jian**, Zongming Jin, XueShuo Xie, Ye Lu\*, Guangying Li\*, Xinwei Chen, Thar Baker, **Measurement 2021** ![Static Badge](https://img.shields.io/badge/SCI_II-blue)
+- [ATOM: Architectural Support and Optimization Mechanism for Smart Contract Fast Update and Execution in Blockchain-Based IoT](https://ieeexplore.ieee.org/document/9520821), Tao Li; Yaozheng Fang; **Zhaolong Jian**, Xueshuo Xie, Ye Lu\* and Guiling Wang, **IOTJ 2021** ![Static Badge](https://img.shields.io/badge/SCI_I-red)
+- [Trusted-DNN: A TrustZone-based Adaptive Isolation Strategy for Deep Neural Networks](https://dl.acm.org/doi/10.1145/3472634.3472652), Zhuang Liu, Ye Lu\*, Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Tao Li, **ACM TURC 2021** ![Static Badge](https://img.shields.io/badge/Best_Paper_Award-red)
+- [WIP: Sysnif: Constructing Workflow from Interleaved Logs in Intelligent IoT System](https://ieeexplore.ieee.org/document/9469470), Zongming Jin, Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Ye Lu\*, Guangying Li\*, **WoWMoM 2021** ![Static Badge](https://img.shields.io/badge/CCF_C-green)
+- [Fast Policy Interpretation and Dynamic Conflict Resolution for Blockchain-Based IoT System](https://onlinelibrary.wiley.com/doi/10.1155/2021/9968743), Yaozheng Fang, **Zhaolong Jian**, Zongming Jin, Xueshuo Xie\*, Ye Lu, Tao Li, **WCMC 2021** ![Static Badge](https://img.shields.io/badge/CCF_C-green)
 
 ### 2020
 
-- [Blockchain-driven Anomaly Detection Framework on Edge Intelligence](http://www.jolyonjian.fun/files/ton.pdf), Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Ye Lu\*, Tao Li\*, Guiling Wang, **CCF ToN 2020**
+- [Blockchain-driven Anomaly Detection Framework on Edge Intelligence](https://link.springer.com/article/10.1007/s42045-020-00044-9), Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Ye Lu\*, Tao Li\*, Guiling Wang, **CCF ToN 2020**
 
 # 🥏 Interesting Repositories
 - [CCF4DBLP: Retrieve papers from DBLP based on CCF ranting](https://github.com/JolyonJian/CCF4DBLP) ![Static Badge](https://img.shields.io/github/stars/JolyonJian/CCF4DBLP?style=social)
