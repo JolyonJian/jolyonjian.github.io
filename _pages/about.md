@@ -54,7 +54,7 @@ Bachelor’s degree program.
 
 **Zhaolong Jian**, Xu Liu, Qiankun Dong, Longkai Cheng, Xueshuo Xie*, and Tao Li*
 
-[**Project**](https://github.com/nkicsl/SmartZone) ![Static Badge](https://img.shields.io/github/stars/nkicsl/SmartZone) <strong><span class='show_paper_citations' data='LCsCUrMAAAAJ:LkGwnXOMwfcC'></span></strong>
+[**Project**](https://github.com/nkicsl/SmartZone) ![Static Badge](https://img.shields.io/github/stars/nkicsl/SmartZone?style=social) <strong><span class='show_paper_citations' data='LCsCUrMAAAAJ:LkGwnXOMwfcC'></span></strong>
 - SmartZone provides entire protection for on-device DNN and LLM inference while keeping efficiency.
 - SmartZone is a good paradigm for TrustZone-based high performance confidential computing.
 </div>
@@ -67,7 +67,7 @@ Bachelor’s degree program.
 
 **Zhaolong Jian**, Ye Lu*, Youyang Qiao, Yaozheng Fang, Xueshuo Xie, Dayi Yang, Zhiyuan Zhou, and Tao Li
 
-[**Project**](https://github.com/nkicsl/TSC-VEE) ![Static Badge](https://img.shields.io/github/stars/nkicsl/TSC-VEE) <strong><span class='show_paper_citations' data='LCsCUrMAAAAJ:WF5omc3nYNoC'></span></strong>
+[**Project**](https://github.com/nkicsl/TSC-VEE) ![Static Badge](https://img.shields.io/github/stars/nkicsl/TSC-VEE?style=social) <strong><span class='show_paper_citations' data='LCsCUrMAAAAJ:WF5omc3nYNoC'></span></strong>
 - TSC-VEE is the first virtual execution environment for Solidity smart contract on ARM TrustZone.
 - TSC-VEE contributed the first evm implemented in pure C language in the community.
 </div>
@@ -80,7 +80,7 @@ Bachelor’s degree program.
 
 **Zhaolong Jian**, Xueshuo Xie, Yaozheng Fang, Yibing Jiang, Ye Lu, Ankan Dash, Tao Li*, and Guiling Wang
 
-[**Project**](https://github.com/JolyonJian/DRS) ![Static Badge](https://img.shields.io/github/stars/JolyonJian/DRS) <strong><span class='show_paper_citations' data='LCsCUrMAAAAJ:YsMSGLbcyi4C'></span></strong>
+[**Project**](https://github.com/JolyonJian/DRS) ![Static Badge](https://img.shields.io/github/stars/JolyonJian/DRS?style=social) <strong><span class='show_paper_citations' data='LCsCUrMAAAAJ:YsMSGLbcyi4C'></span></strong>
 - DRS uses the DQN algorithm to enhance the native scheduler of Kubernetes.
 - DRS provides a good implementation reference for Kubernetes scheduling optimization.
 </div>
@@ -122,9 +122,9 @@ Bachelor’s degree program.
 - [Blockchain-driven Anomaly Detection Framework on Edge Intelligence](https://link.springer.com/article/10.1007/s42045-020-00044-9), Xueshuo Xie, Yaozheng Fang, **Zhaolong Jian**, Ye Lu\*, Tao Li\*, Guiling Wang, **CCF ToN 2020**
 
 # 🥏 Interesting Repositories
-- [CCF4DBLP: Retrieve papers from DBLP based on CCF ranting](https://github.com/JolyonJian/CCF4DBLP) ![Static Badge](https://img.shields.io/github/stars/JolyonJian/CCF4DBLP)
-- [BC4SM: Blockchain-based secure messaging mechanism](https://github.com/JolyonJian/BC4SM) ![Static Badge](https://img.shields.io/github/stars/JolyonJian/BC4SM)
-- [TxAnalysis: Analysis of popular Ethereum smart contracts](https://github.com/JolyonJian/tx-analysis) ![Static Badge](https://img.shields.io/github/stars/JolyonJian/tx-analysis)
+- [CCF4DBLP: Retrieve papers from DBLP based on CCF ranting](https://github.com/JolyonJian/CCF4DBLP) ![Static Badge](https://img.shields.io/github/stars/JolyonJian/CCF4DBLP?style=social)
+- [BC4SM: Blockchain-based secure messaging mechanism](https://github.com/JolyonJian/BC4SM) ![Static Badge](https://img.shields.io/github/stars/JolyonJian/BC4SM?style=social)
+- [TxAnalysis: Analysis of popular Ethereum smart contracts](https://github.com/JolyonJian/tx-analysis) ![Static Badge](https://img.shields.io/github/stars/JolyonJian/tx-analysis?style=social)
 
 # 🎖 Honors and Awards
 - *2024.12* Second Prize in the 3th CCF Blockchain Competition.
