@@ -50,7 +50,7 @@ Bachelor’s degree program.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TC 2025</div><img src='images/smartzone.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SmartZone: Runtime Support for Secure and Efficient On-device Inference on ARM TrustZone](https://www.computer.org/csdl/journal/tc/5555/01/10949698/25KD2srm7qo)
+[SmartZone: Runtime Support for Secure and Efficient On-device Inference on ARM TrustZone](https://ieeexplore.ieee.org/abstract/document/10949698)
 
 **Zhaolong Jian**, Xu Liu, Qiankun Dong, Longkai Cheng, Xueshuo Xie*, and Tao Li*
 
@@ -90,7 +90,7 @@ Bachelor’s degree program.
 
 ### 2025
 
-- [SmartZone: Runtime Support for Secure and Efficient On-device Inference on ARM TrustZone](https://www.computer.org/csdl/journal/tc/5555/01/10949698/25KD2srm7qo), **Zhaolong Jian**, Xu Liu, Qiankun Dong, Longkai Cheng, Xueshuo Xie\*, and Tao Li\*, **TC 2025** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
+- [SmartZone: Runtime Support for Secure and Efficient On-device Inference on ARM TrustZone](https://ieeexplore.ieee.org/abstract/document/10949698), **Zhaolong Jian**, Xu Liu, Qiankun Dong, Longkai Cheng, Xueshuo Xie\*, and Tao Li\*, **TC 2025** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
 
 - [Hybrid-Granularity Parallelism Support for Fast Transaction Processing in Blockchain-based Federated Learning](https://www.ipdps.org/ipdps2025/2025-advance-program.html), Mulin Li, **Zhaolong Jian**, Kaixuan Yang, Xueshuo Xie\*, Wajdy, Tao Li\*, **IPDPS 2025** ![Static Badge](https://img.shields.io/badge/CCF_B-blue)
 
