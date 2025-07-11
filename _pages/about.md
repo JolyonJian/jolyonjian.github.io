@@ -19,7 +19,7 @@ redirect_from:
 
 Aloha there! I am a 3rd year Ph.D. candidate at College of Computer Science of Nankai University, advised by Prof. Tao Li and Ye Lu. I am affliated with [Nankai Intelligent Computing System Lab](https://ics.nankai.edu.cn/) and [Haihe Lab of ITAI](https://www.hl-it.cn/). 
 
-I am now a visiting scholar at Nanyang Technological University (NTU) supervised by [Prof. Weichen Liu](https://personal.ntu.edu.sg/liu/) with the sponsorship of China Scholarship Council (CSC). 
+I am now a visiting student at Nanyang Technological University (NTU) supervised by [Prof. Weichen Liu](https://personal.ntu.edu.sg/liu/) with the sponsorship of China Scholarship Council (CSC). 
 
 My research interest includes intelligent computing system, trusted execution environment, and system security. I have published 14 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
