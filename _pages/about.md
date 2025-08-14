@@ -27,14 +27,11 @@ Here is my resume: [\[CV-en\]](http://www.jolyonjian.fun/files/cv-en.pdf) [\[CV-
 
 # 📖 Educations
 - *2022.09 - 2026.06*, College of Computer Science, Nankai University. 
-Successive master-doctor program (Ph.D. student phase) in Computer Science.
-Research fields: Trusted execution environment, Confidential computing.
+Successive master-doctor program in Computer Science.
+Research fields: Computer architecture， Trusted execution environment.
 - *2025.03 - 2026.03*, College of Computing and Data Science, Nanyang Technological University. 
 Visting Ph.D. student (CSC) in Computer Archtecture.
-Research fields: TEE-based heterogeneous computing.
-- *2020.09 - 2022.06*, College of Computer Science, Nankai University. 
-Successive master-doctor program (Master student phase) in Computer Science.
-Research fields: Trusted execution environment, Smart contract virtual machine.
+Research fields: Heterogeneous TEE construction.
 - *2016.09 - 2020.06*, College of Cyber Science, Nankai University.
 B.Eng. in Internet of Things Engineering.
 Bachelor’s degree program.
@@ -147,3 +144,4 @@ Bachelor’s degree program.
 # 💻 Internships
 - *2023.03 - now*, Digital Health Center, Haihe Lab of ITAI. Distributed medical privacy computing system.
 - *2022.07 - 2022.09*, Blockchain Platform Division, Ant Group. Smart contract programming language design for asset security.
+
