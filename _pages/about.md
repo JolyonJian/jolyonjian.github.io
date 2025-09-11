@@ -89,7 +89,7 @@ Bachelor’s degree program.
 
 - [SmartZone: Runtime Support for Secure and Efficient On-device Inference on ARM TrustZone](https://ieeexplore.ieee.org/abstract/document/10949698), **Zhaolong Jian**, Xu Liu, Qiankun Dong, Longkai Cheng, Xueshuo Xie\*, and Tao Li\*, **TC 2025** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
 
-- [AEDS: An Affinity-driven Efficient DRL-based Task Scheduling Framework for Edge Computing](https://ieeexplore.ieee.org/abstract/document/11078507), Xu Liu, **Zhaolong Jian**, Xueshuo Xie\*, Qiankun Dong, Mulin Li, Xiaoyu Zhang, and Tao Li\*, **TMC 2025** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
+- [AEDS: An Affinity-driven Efficient DRL-based Task Scheduling Framework for Edge Computing](https://ieeexplore.ieee.org/document/11155212), Xu Liu, **Zhaolong Jian**, Xueshuo Xie\*, Qiankun Dong, Mulin Li, Xiaoyu Zhang, and Tao Li\*, **TMC 2025** ![Static Badge](https://img.shields.io/badge/CCF_A-red)
 
 - [Hybrid-Granularity Parallelism Support for Fast Transaction Processing in Blockchain-based Federated Learning](https://ieeexplore.ieee.org/abstract/document/11078507), Mulin Li, **Zhaolong Jian**, Kaixuan Yang, Xueshuo Xie\*, Wajdy, Tao Li\*, **IPDPS 2025** ![Static Badge](https://img.shields.io/badge/CCF_B-blue)
 
@@ -146,6 +146,7 @@ Bachelor’s degree program.
 # 💻 Internships
 - *2023.03 - now*, Digital Health Center, Haihe Lab of ITAI. Distributed medical privacy computing system.
 - *2022.07 - 2022.09*, Blockchain Platform Division, Ant Group. Smart contract programming language design for asset security.
+
 
 
 
