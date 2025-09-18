@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Aloha there! I am a 3rd year Ph.D. candidate at College of Computer Science of Nankai University, advised by Prof. Tao Li and Ye Lu. I am affliated with [Nankai Intelligent Computing System Lab](https://ics.nankai.edu.cn/) and [Haihe Lab of ITAI](https://www.hl-it.cn/). 
+Aloha there! I am a 4nd year Ph.D. candidate at College of Computer Science of Nankai University, advised by Prof. Tao Li and Ye Lu. I am affliated with [Nankai Intelligent Computing System Lab](https://ics.nankai.edu.cn/) and [Haihe Lab of ITAI](https://www.hl-it.cn/). 
 
 I am now a visiting student at Nanyang Technological University (NTU) supervised by [Prof. Weichen Liu](https://personal.ntu.edu.sg/liu/) with the sponsorship of China Scholarship Council (CSC). 
 
 My research interest includes intelligent computing system, trusted execution environment, and system security. I have published 15 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-Here is my resume: [\[CV-en\]](http://www.jolyonjian.fun/files/cv-en.pdf) [\[CV-cn\]](http://www.jolyonjian.fun/files/cv-cn.pdf)
+I am expected to graduate in June 2026 and am currently seeking full-time opportunities. Here are my resumes: [\[CV-en\]](http://www.jolyonjian.fun/files/cv-en.pdf) [\[CV-cn\]](http://www.jolyonjian.fun/files/cv-cn.pdf)
 
 # 📖 Educations
 - *2022.09 - 2026.06*, College of Computer Science, Nankai University. 
@@ -146,6 +146,7 @@ Bachelor’s degree program.
 # 💻 Internships
 - *2023.03 - now*, Digital Health Center, Haihe Lab of ITAI. Distributed medical privacy computing system.
 - *2022.07 - 2022.09*, Blockchain Platform Division, Ant Group. Smart contract programming language design for asset security.
+
 
 
 
