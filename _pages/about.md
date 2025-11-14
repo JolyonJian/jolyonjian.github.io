@@ -26,7 +26,7 @@ My research interest includes intelligent computing system, trusted execution en
 I am expected to graduate in June 2026 and am currently seeking full-time opportunities. Here are my resumes: [\[CV-en\]](http://www.jolyonjian.fun/files/cv-en.pdf) [\[CV-cn\]](http://www.jolyonjian.fun/files/cv-cn.pdf)
 
 # 📖 Educations
-- *2022.09 - 2026.06*, College of Computer Science, Nankai University. 
+- *2020.09 - 2026.06*, College of Computer Science, Nankai University. 
 Successive master-doctor program in Computer Science.
 Research fields: Computer architecture， Trusted execution environment.
 - *2025.03 - 2026.03*, College of Computing and Data Science, Nanyang Technological University. 
@@ -146,6 +146,7 @@ Bachelor’s degree program.
 # 💻 Internships
 - *2023.03 - now*, Digital Health Center, Haihe Lab of ITAI. Distributed medical privacy computing system.
 - *2022.07 - 2022.09*, Blockchain Platform Division, Ant Group. Smart contract programming language design for asset security.
+
 
 
 
