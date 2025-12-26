@@ -21,7 +21,7 @@ Aloha there! I am a 4nd year Ph.D. candidate at College of Computer Science of N
 
 I am now a visiting student at Nanyang Technological University (NTU) supervised by [Prof. Weichen Liu](https://personal.ntu.edu.sg/liu/) with the sponsorship of China Scholarship Council (CSC). 
 
-My research interest includes intelligent computing system, trusted execution environment, and system security. I have published 16 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes intelligent computing system, trusted execution environment, and system security. I have published 17 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 I am expected to graduate in June 2026 and am currently seeking full-time opportunities. Here are my resumes: [\[CV-en\]](http://www.jolyonjian.fun/files/cv-en.pdf) [\[CV-cn\]](http://www.jolyonjian.fun/files/cv-cn.pdf)
 
@@ -83,7 +83,7 @@ Bachelor’s degree program.
 </div>
 </div>
 
-**Publications List: 16 papers totally**
+**Publications List: 17 papers totally**
 
 ### 2025
 
@@ -94,6 +94,8 @@ Bachelor’s degree program.
 - [Hybrid-Granularity Parallelism Support for Fast Transaction Processing in Blockchain-based Federated Learning](https://ieeexplore.ieee.org/abstract/document/11078507), Mulin Li, **Zhaolong Jian**, Kaixuan Yang, Xueshuo Xie\*, Wajdy, Tao Li\*, **IPDPS 2025** ![Static Badge](https://img.shields.io/badge/CCF_B-blue)
 
 - [Col-TEEs: Secure and Efficient Collaborative Inference Framework in Heterogeneous TEEs](https://ieeexplore.ieee.org/abstract/document/11078507), Xu Liu, Tao Li, **Zhaolong Jian**, Xueshuo Xie\*, Mulin Li, and Gang Wang\*, **ICPADS 2025** ![Static Badge](https://img.shields.io/badge/CCF_C-green)
+
+- [Cochain: Architectural Support Mechanism for Blockchain-based Task Scheduling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965009), Yaozheng Fang, Yibing Jiang, Xueshuo Xie, **Zhaolong Jian**, Tao Li\*, Zhiguo Wan, and Grace Wang\*, **APPT 2025** ![Static Badge](https://img.shields.io/badge/CCF_C-green)
 
 ### 2024
 
@@ -148,6 +150,7 @@ Bachelor’s degree program.
 # 💻 Internships
 - *2023.03 - now*, Digital Health Center, Haihe Lab of ITAI. Distributed medical privacy computing system.
 - *2022.07 - 2022.09*, Blockchain Platform Division, Ant Group. Smart contract programming language design for asset security.
+
 
 
 
