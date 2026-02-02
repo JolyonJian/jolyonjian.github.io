@@ -21,7 +21,7 @@ Aloha there! I am a 4th year Ph.D. candidate at the College of Computer Science 
 
 I am now a visiting student at Nanyang Technological University (NTU) supervised by [Prof. Weichen Liu](https://personal.ntu.edu.sg/liu/) with the sponsorship of China Scholarship Council (CSC). 
 
-My research interest includes intelligent computing system and efficient confidential computing. I have published 17 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes intelligent computing system and efficient confidential computing. I have published 17 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'>google scholar citations <strong><span id='total_cit'>170+</span></strong></a> <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 I am expected to graduate in June 2026 and am currently seeking full-time opportunities. Here are my resumes: [\[CV-en\]](http://www.jolyonjian.fun/files/cv-en.pdf) [\[CV-cn\]](http://www.jolyonjian.fun/files/cv-cn.pdf)
 
@@ -150,6 +150,7 @@ Bachelor’s degree program.
 # 💻 Internships
 - *2023.03 - now*, Digital Health Center, Haihe Lab of ITAI. Distributed medical privacy computing system.
 - *2022.07 - 2022.09*, Blockchain Platform Division, Ant Group. Smart contract programming language design for asset security.
+
 
 
 
