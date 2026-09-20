@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhaolong Jian"
-description              : "Ph.D. Candidate in Computer Science, Specializing in Computer Architecture. Focusing on Trusted Execution Environment (TEE)."
+description              : "R&D Engineer. Ph.D in Computer Science. Focusing on confidential computing."
 repository               : "JolyonJian/jolyonjian.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhaolong Jian"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nankai University"
-  location         : "Tianjin, China"
+  bio              : "Ant Group"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LCsCUrMAAAAJ"
-  email            : "jianzhaolong@mail.nankai.edu.cn"
+  email            : "jianzhaolong.jzl@antgroup.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
