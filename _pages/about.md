@@ -17,13 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Aloha there! I am a 4th year Ph.D. candidate at the College of Computer Science of Nankai University, advised by [Prof. Tao Li](https://ics.nankai.edu.cn/12509/list.htm) and [Prof. Ye Lu](https://ics.nankai.edu.cn/12509/list.htm). I am affiliated with [Nankai Intelligent Computing System Lab](https://ics.nankai.edu.cn/) and [Haihe Lab of ITAI](https://www.hl-it.cn/). 
+Aloha! I am currently an R&D Engineer at Ant Group. I received my Ph.D. degree in computer science from Nankai University, China, in 2026, advised by [Prof. Tao Li](https://ics.nankai.edu.cn/12509/list.htm) and [Prof. Ye Lu](https://ics.nankai.edu.cn/12509/list.htm). 
 
-I am now a visiting student at Nanyang Technological University (NTU) supervised by [Prof. Weichen Liu](https://personal.ntu.edu.sg/liu/) with the sponsorship of China Scholarship Council (CSC). 
-
-My research interest includes intelligent computing system and efficient confidential computing. I have published 17 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'>google scholar citations <strong><span id='total_cit'>200+</span></strong></a> <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
-I am expected to graduate in June 2026 and am currently seeking full-time opportunities. Here are my resumes: [\[CV-en\]](http://www.jolyonjian.fun/files/cv-en.pdf) [\[CV-cn\]](http://www.jolyonjian.fun/files/cv-cn.pdf)
+My research interests include confidential computing and computer architecture. I have published 17 papers in top-tier international journals and conferences with total <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'>google scholar citations <strong><span id='total_cit'>250+</span></strong></a> <a href='https://scholar.google.com/citations?user=user=LCsCUrMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 📖 Educations
 - *2020.09 - 2026.06*, College of Computer Science, Nankai University. 
